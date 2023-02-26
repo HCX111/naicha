@@ -1,0 +1,54 @@
+<view>
+<image class="a" src="cloud://cloud1-4gbwokwg02e88fc2.636c-cloud1-4gbwokwg02e88fc2-1309747500/作业/gg.png" mode="widthFix"></image>
+</view>
+<view class="a1">
+    <view class="a2">
+        <text class="a3">欢迎来到瑞幸</text>
+        <text class="a4">成为瑞幸会员享优惠</text>
+    </view>
+    <navigator url="../../pages/denglu/denglu" >
+      <view class="b1">
+        <text class="b2">请点击这里登录</text>
+      </view>
+    </navigator>
+</view>
+<view class="g">
+    <image class="g2" src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20200306%2F505ade23f7f5423e95c98d2bfb7d4cb0.jpeg&refer=http%3A%2F%2F5b0988e595225.cdn.sohucs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1657183013&t=a42338e2088541687d56c46d227e7ab2" mode="heightFix"></image>
+    <image class="g3" src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg1.doubanio.com%2Fview%2Fgroup_topic%2Fl%2Fpublic%2Fp442202799.jpg&refer=http%3A%2F%2Fimg1.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1657182709&t=0fbc410f861e9e0125d3544b2d31c479" mode="heightFix"></image>
+    <image class="g4" src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi-1.emu999.net%2F2021%2F0608%2F7fc5a4624b1946ed8fbef61bb8e985ae.jpg&refer=http%3A%2F%2Fi-1.emu999.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1657182869&t=f901078cd209046e8fb92d91c6c8f7f6" mode="heightFix"></image>
+</view>
+<view class="c">
+   <view class="c1">
+    <swiper autoplay="ture"	circular="ture"  >
+    <swiper-item wx:for="{{banners}}">
+    <image src="{{item.src}}" mode="heightFix"></image>
+    </swiper-item>
+    </swiper>
+   </view>
+   <view class="d">
+   <view>
+      <image class="d1" src="https://wap.luckincoffeecdn.com/coffee/assets/23410bd7fc3c8a625eeb12d97774736e.png" mode="widthFix"></image>
+    </view>
+    <view class="d2">
+      <image src="cloud://cloud1-4gbwokwg02e88fc2.636c-cloud1-4gbwokwg02e88fc2-1309747500/作业/w1.png" mode="widthFix"></image>
+      <text class="d3">优选上等阿拉比卡豆</text>
+      <text class="d4">High Quality Arabica Beans</text>
+      <text class="d5">我们从四大咖啡产区，为您精心挑选阿拉比卡豆。</text>
+      <text class="d6">Our coffee beans come directly from top coffee producing regions, and we make sure each and every bean is Arabica.</text>
+    </view>
+    <view class="e">
+        <image src="cloud://cloud1-4gbwokwg02e88fc2.636c-cloud1-4gbwokwg02e88fc2-1309747500/作业/w2.png" mode="widthFix"></image>
+        <text class="e1">WBC冠军团队精心拼配</text>
+        <text class="e2">Blended by the WBC Champions</text>
+        <text class="e3">来自意大利、日本、中国的咖啡大师们，为您拼配。</text>
+        <text class="e4">Every batch of our coffee is carefully blended by our team of the WBC champions, hailing from Poland, Italy, Japan, and China.</text>
+    </view>
+    <view class="f">
+        <image src="cloud://cloud1-4gbwokwg02e88fc2.636c-cloud1-4gbwokwg02e88fc2-1309747500/作业/w3.png" mode="widthFix"></image>
+        <text class="f1">新鲜烘焙 新鲜现磨</text>
+        <text class="f2">Freshly roasted, freshly ground.</text>
+        <text class="f3">您品尝的每一杯luckin，均为烘焙熟豆的更佳赏味期。</text>
+        <text class="f4">Every cup of our coffee is made fresh just for you, guaranteed.</text>
+    </view>
+   </view>
+</view>

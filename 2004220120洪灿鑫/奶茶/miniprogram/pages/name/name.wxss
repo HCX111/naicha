@@ -1,0 +1,75 @@
+.a{
+    width: 750rpx;
+    height: 650rpx;
+    /* background: blue; */
+}
+.a1{
+    width: 300rpx;
+    margin-left: 230rpx;
+    margin-top: 150rpx;
+    border-radius: 50%;
+}
+.aa{
+    display: block;
+    margin-left: 300rpx;
+    margin-top: 20rpx;
+}
+.poster{
+    width: 100rpx;
+}
+.a2{
+  width: 700rpx;
+  height: 110rpx;
+  /* background: red; */
+  margin: 0 auto;
+}
+.a2 image{
+    width: 80rpx;
+    margin-left: 40rpx;
+    float: left;
+}
+.a2 .a3{
+    width: 100rpx;
+    margin-left: 90rpx;
+    float: left;
+}
+.a2 .a4{
+    width: 100rpx;
+    margin-left: 90rpx;
+    float: left;
+}
+.a2 .a5{
+    width: 100rpx;
+    margin-left: 80rpx;
+    float: left;
+}
+.b{
+    width: 700rpx;
+    height: 50rpx;
+    /* background: lightblue; */
+    margin: 0px auto;
+}
+.b text{
+    float: left;
+    margin-left: 30rpx;
+}
+.b .b1{
+    float: left;
+    margin-left: 60rpx;
+}
+.b .b2{
+    float: left;
+    margin-left: 40rpx;
+}
+.b .b3{
+    float: left;
+    margin-left: 50rpx;
+}
+.c{
+    border-bottom: 1px solid seagreen;
+    margin-top: 20rpx;
+}
+button{
+    margin-top: 200rpx;
+    background: #0000CD;
+}

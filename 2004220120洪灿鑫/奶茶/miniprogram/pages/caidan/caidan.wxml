@@ -1,0 +1,41 @@
+<image class="a" src="https://wap.luckincoffeecdn.com/coffee/assets/9df6e190f386724d7670ad6de4e94273.png" mode="widthFix"></image>
+<text class="a1">瑞幸菜单</text>
+<text class="a2">咖啡融合冰淇淋</text>
+<view class="b">
+    <image src="https://www.starbucks.com.cn/images/products/affogato.jpg" mode="heightFix"></image>
+    <image src="https://www.starbucks.com.cn/images/products/cold-brew-malt.jpg" mode="heightFix"></image>
+    <text class="b1">阿馥奇朵™</text>
+    <text class="b2">麦芽雪冷萃™</text>
+</view>
+<view class="c">
+    <image src="https://www.starbucks.com.cn/images/products/cold-brew-float.jpg" mode="heightFix"></image>
+    <image src="https://www.starbucks.com.cn/images/products/instore-nitro-cold-brew-float.jpg" mode="heightFix"></image>
+    <text class="c1">阿馥奇朵™</text>
+    <text class="c2">麦芽雪冷萃™</text>
+</view>
+<view class="c3"></view>
+<text class="d">冷萃咖啡系列</text>
+<view class="d1">
+    <image src="https://www.starbucks.com.cn/images/products/cold-brew.jpg" mode="heightFix"></image>
+    <image src="https://www.starbucks.com.cn/images/products/vanilla-flavor-sweet-cream-cold-brew.jpg" mode="heightFix"></image>
+    <text class="d2">冷萃冰咖啡</text>
+    <text class="d3">轻甜奶油冷萃</text>
+</view>
+<view class="d4">
+    <image src="https://www.starbucks.com.cn/images/products/cold-foam-cold-brew.jpg" mode="heightFix"></image>
+    <text class="d5">冷萃冰咖啡</text>
+</view>
+<view class="f"></view>
+<text class="f1">烘焙</text>
+<view class="f2">
+    <image src="https://www.starbucks.com.cn/images/products/american-style-pancakes.jpg" mode="heightFix"></image>
+    <image src="https://www.starbucks.com.cn/images/products/chocolate-muffin.jpg" mode="heightFix"></image>
+    <text class="f3">美式松饼</text>
+    <text class="f4">香浓巧克力麦芬</text>
+</view>
+<view class="g">
+    <image src="https://www.starbucks.com.cn/images/products/french-butter-croissant.jpg" mode="heightFix"></image>
+    <image src="https://www.starbucks.com.cn/images/products/hazelnut-croissant.jpg" mode="heightFix"></image>
+    <text class="g1">美式松饼</text>
+    <text class="g2">香浓巧克力麦芬</text>
+</view>

@@ -1,0 +1,7 @@
+<image class="a" src="https://wap.luckincoffeecdn.com/coffee/assets/9df6e190f386724d7670ad6de4e94273.png" mode="widthFix"></image>
+<view>
+    <text class="{{num==index?'current':''}}"bindtap="change" data-id="{{index}}"
+     wx:for="{{list}}">{{item}}</text>
+</view>
+<view wx:if="{{num==index}}" class="box" wx:for="{{con}}">{{item}}</view>
+<image class="a1" wx:if="{{num==index}}" wx:for="{{srcs}}" src="{{item.src}}" mode="widthFix"></image>

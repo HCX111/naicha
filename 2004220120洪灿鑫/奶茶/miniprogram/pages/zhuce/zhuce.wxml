@@ -1,0 +1,15 @@
+<image class="a" src="https://wap.luckincoffeecdn.com/coffee/assets/9df6e190f386724d7670ad6de4e94273.png" mode="widthFix"></image>
+<view class="a1">
+  <form action="" bindsubmit="sign">
+    <label for="user">用户名</label>
+    <input type="text" id="user" placeholder-class="txt" name="user"
+     placeholder="请输入用户名"/>
+    <text class="tips">{{user}}</text>
+    <label for="pass">密码</label>
+    <input type="password" id="pass" name="pass" placeholder-class="txt" placeholder="请输入密码"/>
+    <text class="tips">{{pass}}</text>
+    <navigator url="/pages/denglu/denglu">以有账号，请点击这里登录</navigator>
+    <button  form-type="submit">注册</button>
+    </form>
+</view>
+<image class="b" src="https://rescdn.qqmail.com/zh_CN/htmledition/images/tg-mj1e9c5d.jpg" mode="widthFix"></image>

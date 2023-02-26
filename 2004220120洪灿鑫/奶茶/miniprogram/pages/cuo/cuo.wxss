@@ -1,0 +1,21 @@
+.a{
+    width: 300rpx;
+}
+view text{
+    display: inline-block;
+    width: 125rpx;
+    text-align: center;
+}
+ .current{
+     background:lime;
+     color:#fff;
+     border-radius:4px;
+ }
+ .box{
+     border: 10px dotted orangered;
+     width: 700rpx;
+ }
+ .a1{
+     width: 400rpx;
+     float: left;
+ }

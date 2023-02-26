@@ -1,0 +1,197 @@
+.a{
+    width: 300rpx;
+}
+.a1{
+    text-align: center;
+    display: block;
+    margin-top: 15rpx;
+    font-size: 25px;
+    font-family: '楷体';
+    color:  rgba(0, 0, 0, 0.56);
+}
+.a2{
+    display: block;
+    margin-top: 15rpx;
+    font-size: 15px;
+    color:  rgba(0, 0, 0, 0.56);
+}
+.b{
+    width: 750rpx;
+    height: 400rpx;
+    /* background: aqua; */
+    margin-top: 10rpx;
+    margin-bottom: 10rpx;
+}
+.b image{
+    height: 150px;
+    margin-top: 20rpx;
+    margin-left: 50rpx;
+    border-radius: 50%;
+    float: left;
+    margin-bottom: 10rpx;
+}
+.b .b1{
+    display: block;
+    margin-left: 120rpx;
+    font-size: 16px;
+    float: left;
+}
+.b .b2{
+    display: block;
+    font-size: 16px;
+    margin-right: 130rpx;
+    float: right;
+}
+
+
+.c{
+    width: 750rpx;
+    height: 400rpx;
+    /* background: aqua; */
+    margin-bottom: 10rpx;
+}
+.c image{
+    height: 150px;
+    margin-top: 20rpx;
+    margin-left: 50rpx;
+    border-radius: 50%;
+    float: left;
+    margin-bottom: 10rpx;
+}
+.c .c1{
+    display: block;
+    margin-left: 120rpx;
+    font-size: 16px;
+    float: left;
+}
+.c .c2{
+    display: block;
+    font-size: 16px;
+    margin-right: 130rpx;
+    float: right;
+}
+.c3{
+    border-bottom: 1px solid rgb(56, 55, 58);
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 10rpx;
+}
+.d{
+    display: block;
+    margin-top: 15rpx;
+    font-size: 15px;
+    color:  rgba(0, 0, 0, 0.56);
+}
+
+.d1{
+    width: 750rpx;
+    height: 400rpx;
+    /* background: aqua; */
+    margin-bottom: 10rpx;
+}
+.d1 image{
+    height: 150px;
+    margin-top: 20rpx;
+    margin-left: 50rpx;
+    border-radius: 50%;
+    float: left;
+    margin-bottom: 10rpx;
+}
+.d1 .d2{
+    display: block;
+    margin-left: 120rpx;
+    font-size: 16px;
+    float: left;
+}
+.d1 .d3{
+    display: block;
+    font-size: 16px;
+    margin-right: 130rpx;
+    float: right;
+}
+.d4{
+    width: 350rpx;
+    height: 400rpx;
+    /* background: aqua; */
+    margin-bottom: 10rpx;
+}
+.d4 image{
+    height: 150px;
+    margin-top: 20rpx;
+    margin-left: 50rpx;
+    border-radius: 50%;
+    float: left;
+    margin-bottom: 10rpx;
+}
+.d4 .d5{
+    display: block;
+    margin-left: 120rpx;
+    font-size: 16px;
+    float: left;
+}
+
+.f{
+    border-bottom: 1px solid rgb(56, 55, 58);
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 10rpx;
+}
+.f1{
+    display: block;
+    margin-top: 15rpx;
+    font-size: 15px;
+    color:  rgba(0, 0, 0, 0.56);
+}
+.f2{
+    width: 750rpx;
+    height: 400rpx;
+    /* background: aqua; */
+    margin-bottom: 10rpx;
+}
+.f2 image{
+    height: 150px;
+    margin-top: 20rpx;
+    margin-left: 50rpx;
+    border-radius: 50%;
+    float: left;
+    margin-bottom: 10rpx;
+}
+.f2 .f3{
+    display: block;
+    margin-left: 120rpx;
+    font-size: 16px;
+    float: left;
+}
+.f2 .f4{
+    display: block;
+    font-size: 16px;
+    margin-right: 110rpx;
+    float: right;
+}
+
+.g{
+    width: 750rpx;
+    height: 400rpx;
+    /* background: aqua; */
+    margin-bottom: 10rpx;
+}
+.g image{
+    height: 150px;
+    margin-top: 20rpx;
+    margin-left: 50rpx;
+    border-radius: 50%;
+    float: left;
+    margin-bottom: 10rpx;
+}
+.g .g1{
+    display: block;
+    margin-left: 120rpx;
+    font-size: 16px;
+    float: left;
+}
+.g .g2{
+    display: block;
+    font-size: 16px;
+    margin-right: 110rpx;
+    float: right;
+}

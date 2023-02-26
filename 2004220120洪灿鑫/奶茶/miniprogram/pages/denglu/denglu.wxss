@@ -1,0 +1,75 @@
+.a{
+    width: 400rpx;
+}
+.a1{
+    width: 500rpx;
+    height: 430rpx;
+    /* background: aqua; */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100rpx;
+}
+navigator{
+    color: #ccc;
+    font-size: 12px;
+    text-align: right;
+    margin-top: 20rpx;
+}
+label{
+    color: #999;
+    font-size: 14px;
+    margin-top: 20px;
+    display: block;
+}
+input{
+    border-bottom: 1px solid #ccc;
+}
+.txt{
+    color: #ccc;
+    font-size: 12px;
+}
+button{
+    margin-top: 20px;
+    display: block;
+    background: #0000CD;
+}
+.tips{
+    color: rgb(61, 57, 57);
+    font-size: 12px;
+}
+.b2{
+    height: 70rpx;
+    position: relative;
+    background: white;
+    margin-top: 30rpx;
+}
+.b3{
+    position: absolute;
+    width: 70%;
+    height: 4rpx; 
+    background: #999;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+.b4{
+    width: 30%;
+    text-align: center;
+    background: white;
+    line-height: 70rpx;
+    margin: auto;
+    position: relative;
+    z-index: 1;
+}
+.c{
+    width: 100rpx;
+    margin-top: 30rpx;
+    margin-left: 250rpx;
+}
+.c1{
+    width: 100rpx;
+    margin-top: 30rpx; 
+    margin-left: 50rpx;
+}

@@ -1,0 +1,57 @@
+.q{
+    width: 300rpx;
+    margin-top:30rpx;
+}
+
+.q1{
+    width:750rpx;
+}
+.a1{
+    width: 250rpx;
+    height: 200rpx;
+    margin-top: 30rpx;
+    margin-left: 260rpx;
+}
+.a2{
+    font-size: 14px;
+    display: block;
+}
+.a3{
+    font-size: 14px;
+    display: block;
+    margin: 10rpx 10rpx;
+}
+.b1{
+    width: 750rpx;
+    margin-top: 20rpx;
+}
+.b2{
+    height: 70rpx;
+    position: relative;
+    background: #fff;
+}
+.b3{
+    position: absolute;
+    width: 40%;
+    height: 4rpx;
+    background: #999;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+.b4{
+    width: 30%;
+    text-align: center;
+    background: #fff;
+    line-height: 70rpx;
+    margin: auto;
+    position: relative;
+    z-index: 1;
+}
+.x{
+    /* 不换行 */
+    white-space: nowrap;
+ 
+}

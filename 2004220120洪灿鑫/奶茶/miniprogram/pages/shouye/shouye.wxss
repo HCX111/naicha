@@ -1,0 +1,198 @@
+.a{
+    width: 400rpx;  
+}
+.a1{
+    width: 750rpx;
+    background: rgb(19, 19, 20);
+    height: 80rpx;
+    margin: 0 auto;
+}
+.a2{
+    width: 375rpx;
+    /* background: orange; */
+    height: 80rpx;
+    float: left;
+}
+.a3{
+    font-size: 15px;
+    font-family: '楷体';
+    display: block;
+    color: white;
+    text-align: center;
+}
+.a4{
+    font-size: 12px;
+    font-family: '楷体';
+    color: white;
+    text-align: center;
+    display: block;
+}
+.b1{
+    width: 375rpx;
+    float: right;
+    /* background: royalblue; */
+    height: 80rpx;
+   
+}
+.b2{
+    font-size: 15px;
+    font-family: '楷体';
+    text-align: center;
+    display: block;
+    margin-top: 20rpx;
+    color: white;
+}
+.c{
+    width: 750rpx;
+    height: 870rpx;
+    /* background: chartreuse; */
+    margin-top: 5rpx;
+}
+.c1{
+    width: 350rpx;
+    height: 870rpx;
+    /* background: cornflowerblue; */
+    float: left;
+
+}
+swiper{
+    height: 870rpx;
+}
+swiper image{
+    height: 870rpx;
+}
+.d{
+    width: 400rpx;
+    height: 870rpx;
+    background: rgb(19, 19, 20);
+    float: right;
+}
+.d1{
+    width: 150rpx;
+}
+.d2{
+    width: 350rp;
+    height: 240rpx;
+    /* background: rgb(33, 36, 36); */
+    margin-top: 10rpx;
+}
+.d2 image{
+    width: 50rpx;
+    float: left;
+}
+.d3{
+    font-size: 14px;
+    color: white;
+    margin-left: 10rpx;
+    
+}
+.d4{
+    font-size: 10px;
+    display: block;
+    color: white;
+    margin-left: 62rpx;
+}
+.d5{
+    font-size: 12px;
+    display: block;
+    color: white;
+    margin-left: 60rpx;
+}
+.d6{
+    font-size: 10px;
+    display: block;
+    color: white;
+    margin-left: 60rpx;
+}
+.e{
+    width: 350rp;
+    height: 240rpx;
+    /* background: rgb(33, 36, 36); */
+    margin-top: 10rpx;
+}
+.e image{
+    width: 50rpx;
+    float: left;
+}
+.e1{
+    font-size: 14px;
+    color: white;
+    margin-left: 10rpx;
+}
+.e2{
+    font-size: 10px;
+    display: block;
+    color: white;
+    margin-left: 62rpx;
+}
+.e3{
+    font-size: 12px;
+    display: block;
+    color: white;
+    margin-left: 60rpx;
+}
+.e4{
+    font-size: 10px;
+    display: block;
+    color: white;
+    margin-left: 60rpx;
+}
+.f{
+    width: 350rp;
+    height: 240rpx;
+    /* background: rgb(33, 36, 36); */
+    margin-top: 10rpx;
+}
+.f image{
+    width: 50rpx;
+    float: left;
+}
+.f1{
+    font-size: 14px;
+    color: white;
+    margin-left: 10rpx;
+}
+.f2{
+    font-size: 10px;
+    display: block;
+    color: white;
+    margin-left: 62rpx;
+}
+.f3{
+    font-size: 12px;
+    display: block;
+    color: white;
+    margin-left: 60rpx;
+}
+.f4{
+    font-size: 10px;
+    display: block;
+    color: white;
+    margin-left: 60rpx;
+}
+.g{
+    width: 750rpx;
+    height: 400rpx;
+    /* background: forestgreen; */
+    margin-top: 10rpx;
+    margin-bottom: 10rpx;
+}
+.g1{
+    width: 345rpx;
+    height: 400rpx;
+    /* background: fuchsia; */
+    float: left;
+    margin-right: 10rpx;
+}
+.g2{
+   height: 400rpx;
+   margin-left: 15rpx;
+}
+.g3{
+    height: 400rpx;
+    margin-left: 15rpx;
+ }
+ .g4{
+    height: 400rpx;
+    margin-left: 15rpx;
+ }

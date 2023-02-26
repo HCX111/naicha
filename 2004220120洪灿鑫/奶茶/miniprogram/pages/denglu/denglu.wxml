@@ -1,0 +1,21 @@
+<image class="a" src="cloud://cloud1-4gbwokwg02e88fc2.636c-cloud1-4gbwokwg02e88fc2-1309747500/作业/gg.png" mode="widthFix"></image>
+<view class="a1">
+  <form action="" bindsubmit="login">
+    <label for="user">用户名</label>
+    <input type="text" id="user" name="user"  placeholder-class="txt" placeholder="请输入用户名"/>
+    <label for="pass">密码</label>
+    <input type="password" id="pass"  placeholder-class="txt" name="pass" placeholder="请输入密码"/>
+    <text class="tips">{{user}}</text>
+    <navigator url="../../pages/zhuce/zhuce">新用户注册</navigator>
+    <button form-type="submit">登入</button> 
+    </form>
+</view>
+<!-- <image class="b" src="https://rescdn.qqmail.com/zh_CN/htmledition/images/tg-smile1e9c5d.jpg" mode="widthFix"></image> -->
+<view class="b2">
+    <view class="b3"></view>
+        <view class="b4">其他登录方式</view>
+</view>
+<view>
+<image class="c" src="cloud://cloud1-4gbwokwg02e88fc2.636c-cloud1-4gbwokwg02e88fc2-1309747500/作业/uu.png" mode="widthFix"></image>
+<image class="c1" src="cloud://cloud1-4gbwokwg02e88fc2.636c-cloud1-4gbwokwg02e88fc2-1309747500/作业/ii.png" mode="widthFix"></image>
+</view>

@@ -1,0 +1,25 @@
+<image class="q" src="cloud://cloud1-4gbwokwg02e88fc2.636c-cloud1-4gbwokwg02e88fc2-1309747500/作业/gg.png" mode="widthFix"></image>
+<view>
+    <swiper autoplay="ture"	circular="ture" indicator-dots="ture" >
+    <swiper-item wx:for="{{banners}}">
+    <image class="q1" src="{{item.src}}" mode="widthFix"></image>
+    </swiper-item>
+</swiper>
+</view>
+<view class="a">
+    <image class="a1" src="cloud://cloud1-4gbwokwg02e88fc2.636c-cloud1-4gbwokwg02e88fc2-1309747500/作业/ff.png" mode="widthFix"></image>
+    <text class="a2">小鹿茶是瑞幸咖啡中国旗下的独立品牌</text>
+    <text class="a3">2019年7月，瑞幸咖啡发布战略新品「小鹿茶」，全国上线后，迅速成为爆款饮品。作为年轻人的活力茶饮，小鹿茶于2019年9月正式宣布品牌独立，并使用独立品牌及门店视觉体系。</text>
+</view>
+<view>
+ <video class="b1" src="cloud://cloud1-4gbwokwg02e88fc2.636c-cloud1-4gbwokwg02e88fc2-1309747500/作业/z.mp4"></video>
+</view>
+<view class="b2">
+    <view class="b3"></view>
+        <view class="b4">产品优势</view>
+</view>
+<scroll-view scroll-x="ture" class="x">
+    <image src="cloud://cloud1-4gbwokwg02e88fc2.636c-cloud1-4gbwokwg02e88fc2-1309747500/作业/q1.jpg" mode="widthFix"></image>
+    <image src="cloud://cloud1-4gbwokwg02e88fc2.636c-cloud1-4gbwokwg02e88fc2-1309747500/作业/q2.jpg" mode="widthFix"></image>
+</scroll-view>
+

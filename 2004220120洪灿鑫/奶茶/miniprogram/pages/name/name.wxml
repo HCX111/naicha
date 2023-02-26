@@ -1,0 +1,19 @@
+<view class="a">
+<image class="a1" src="{{src}}" mode="widthFix"bindtap="chooseImg"></image>
+<text class="aa">涵虚坤太清</text>
+<image src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.houdianzi.com%2Fd%2Ffile%2Fp%2F2021%2F04%2FZJzyMr.jpg&refer=http%3A%2F%2Fwww.houdianzi.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1657298332&t=a080e21b8737838123fe7174e19e903f" mode="widthFix" bindtap="change" class="poster {{num==0?'current':''}}" 
+></image>
+</view>
+<view class="a2">
+    <image src="https://img2.baidu.com/it/u=1839128203,2407330462&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=647" mode="widthFix"></image>
+    <image class="a3" src="https://img2.baidu.com/it/u=3999458221,3713074174&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=521" mode="widthFix"></image>
+    <image class="a4" src="https://img2.baidu.com/it/u=148660138,3578784966&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=515" mode="widthFix"></image>
+    <image class="a5" src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic175.nipic.com%2Ffile%2F20180711%2F24144945_161350611036_2.jpg&refer=http%3A%2F%2Fpic175.nipic.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1657293836&t=230435baa77048d3e3fc97322ca95b86" mode="widthFix"></image>
+</view>
+<view class="b">
+    <text >我的订单</text>
+    <text class="b2">我的余额</text>
+    <text class="b1">意见反馈</text>
+    <text class="b3">我的地址</text>
+</view>
+<button bindtap="quit" >退出登录</button>
